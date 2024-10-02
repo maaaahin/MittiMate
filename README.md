@@ -1,3 +1,18 @@
+# MittiMate
+mittiMate is a web platform designed to provide farmers with accurate and personalized fertilizer recommendations based on real-time data like soil health, crop type, and weather patterns. The goal is to help farmers optimize crop yield and promote sustainable farming practices by recommending the optimal type and quantity of fertilizers.
+
+
+
+
+![Screenshot 2024-10-02 195726](https://github.com/user-attachments/assets/4169c27f-a7ba-4631-9a6c-9fe985eeecc0)
+![Screenshot 2024-10-02 195758](https://github.com/user-attachments/assets/db570f87-f444-4cc3-bda2-511055521e81)
+![Screenshot 2024-10-02 195851](https://github.com/user-attachments/assets/24005451-9d75-4aea-af38-943f58313e8f)
+![Screenshot 2024-10-02 195926](https://github.com/user-attachments/assets/3cbbfe31-c3e5-45f0-81af-0d424a268ac3)
+![Screenshot 2024-10-02 200000](https://github.com/user-attachments/assets/f3584baa-3f21-448f-ac56-348786eae1af)
+![Screenshot 2024-10-02 200016](https://github.com/user-attachments/assets/f76080a1-41eb-45cb-ab57-536d1e3d1b94)
+![Screenshot 2024-10-02 195836](https://github.com/user-attachments/assets/37b4c767-320f-45ae-a30b-a3cb46ab36e2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
