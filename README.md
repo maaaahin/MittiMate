@@ -1,5 +1,7 @@
 # MittiMate
-##Deployment: https://mitti-mate.vercel.app/
+## Deployment 
+https://mitti-mate.vercel.app/
+
 mittiMate is a web platform designed to provide farmers with accurate and personalized fertilizer recommendations based on real-time data like soil health, crop type, and weather patterns. The goal is to help farmers optimize crop yield and promote sustainable farming practices by recommending the optimal type and quantity of fertilizers.
 
 
